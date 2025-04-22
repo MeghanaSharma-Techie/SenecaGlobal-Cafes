@@ -8,7 +8,7 @@ This project fetches nearby cafes around Seneca Global's location using Google M
 
 ## 🛠️ Tech Stack
 - Databricks Community Edition
-- PySpark, Pandas, SQL
+- Python, PySpark, Pandas, SQL
 - Google Maps API (RapidAPI)
 
 ## 📍 Coordinates Used
